@@ -1,0 +1,141 @@
+HTML -> Hyper Text Markup Language
+- Not programming Language
+- Markup Language
+- Browser Doesnot display html tags
+- Elements are building block
+- Describe structure of Web Page
+
+
+WHY HTML ?
+- To create website
+- Can Become Web designer or Web developer
+- Understand the web
+- Can make responsible and real-world websites
+
+
+HTML VS HTML 5 (HTML 5 is lastes version)
+
+
+Basic HTML Document
+    <!DOCTYPE html> // Defines HTML 5 document
+    <html> // html opening tag -> Root tag
+        <head> // html Header
+            <title>This is document title</title> // Display in browser title
+        </head>
+
+        <body>
+            <h1>My first heading</h1>
+            <p>My first paragraph</p>
+        </body>
+    </html>
+
+
+HTML element Syntax
+<tagame>Content Goes Here</tagame>
+
+Important KEY points
+- Must start with <!Document html>
+- Begins with <html> and ends with <!html> 
+- Visible part -> <body> and </body>
+- Never skip the end tag or closing tag
+- .html extension
+
+Requirements : 
+-- Web Browser -> Firefox , Opera mini, Internet Explorer, Safari, Chrome Browser
+-- Code Editor -> Notepad++, Visual Studio code editor, Atom, Sublime Text 3, Brackets code editor
+
+HEADING : 
+- Title or Subtitle
+- Bold and block elements
+- Different sizes
+- H1 is most important heading
+- H6 is least important heading
+- 6 different levels of heading --> <h1> , <h2>, <h3>, <h4>, <h5>, <h6> 
+
+PARAGRAPH : 
+- Starts on a new line
+- Block element
+- <p> element
+- Add some whitespace
+- Remove any extra spaces
+- Always use with heading
+
+PRE : 
+- preformatted text
+- Display as it is
+- Presevers spaces and line breaks
+
+BLOCK Elements : 
+- Default display value 
+- Block element always starts with new line
+- Block element --> <blockquote>, <div>, <form>, <h1> - <h6>, <hr>, <li>, <nav>, <ol>, <pre>, <p>, <table>, <ul>, <video>
+
+INLINE Elements : 
+- Does not start with new line
+- Inline element --> <a>, <b>, <big>, <br>, <button>, <em>, <i>, <img>, <input>, <label>, <small>, <span>, <strong>, <sup>, <sub>, <textarea>, <select>
+
+DIV :
+- used as a container 
+- No required attributes
+- Together with CSS
+- Devision or section 
+- Container
+- Easily styled
+- Place a line brake
+- Any Content
+
+SPAN : 
+- Inline container
+- No required attributes
+- Together with CSS
+- Easily styled
+
+HTML Horizontal Rules : 
+- defines a thematic break
+- Separate content
+- Separate
+- <hr> generates horizontal line
+- Enpty tag
+- No end tag / closing tag
+
+HTML line breaks : 
+- <br> -> Defines line break
+- Empty tag
+
+HTML Comment : 
+- Not displayed in browser
+- Great for debugging
+- Hide old content
+
+HTML Images : 
+- <img> element
+- Linked to web pages
+- Empty tag
+- Support mltiple image types
+- Inline element
+Attributes --> 
+    - src, alt, widht and height
+
+HTML Links : 
+- <a> Tag
+- Link text & Images
+Attributes --> 
+    - href, title, download
+    - target -> _blank, _self
+
+
+HTML Table : 
+- Arrange data into rows and columns 
+- Arrange Data
+- <table> ... </table> Tag 
+- <tr> -> Table Row
+        - Contains <th> & <td>
+- <th> -> Table Head
+        - Bold and centered 
+        - Header Information 
+- <td> -> Table Data
+        - Data containers 
+        - Regular and left-aligned 
+        - contain all sorts of HTML elements
+
+
